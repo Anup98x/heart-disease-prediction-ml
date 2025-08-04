@@ -40,7 +40,3 @@ The dataset used is the **Heart Failure Prediction Dataset**, which contains fea
 - XGBoost
 - Jupyter Notebook / Google Colab
 
-## 🚀 Getting Started
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/heart-disease-prediction-ml.git
